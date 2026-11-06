@@ -1,0 +1,483 @@
+{
+  "count": 46,
+  "segments": [
+    {
+      "position": 1,
+      "source": "Vertrag über ein Praktikum zur Berufsorientierung",
+      "target": "Договор о прохождении стажировки для профессиональной ориентации",
+      "targetSpans": "<span class=\"te_txt\">Договор о прохождении стажировки для профессиональной ориентации</span>",
+      "match": {
+        "type": "MT",
+        "score": 0.86
+      },
+      "confirmedInPreviousStep": true
+    },
+    {
+      "position": 2,
+      "source": "Zwischen Frau/Herrn",
+      "target": "Между г-жой/г-ном",
+      "targetSpans": "<span class=\"te_txt\">Между г-</span><span class=\"te_txt te_highlight_spellcheck\">жой</span><span class=\"te_txt\">/г-ном</span>",
+      "match": {
+        "type": "MT",
+        "score": 0.97
+      },
+      "confirmedInPreviousStep": true
+    },
+    {
+      "position": 3,
+      "source": "sowie dem Praktikumsbetrieb",
+      "target": "а также предприятием, предоставляющим стажировку,",
+      "targetSpans": "<span class=\"te_txt\">а также предприятием, предоставляющим стажировку,</span>",
+      "match": {
+        "type": "MT",
+        "score": 0.43
+      },
+      "confirmedInPreviousStep": true
+    },
+    {
+      "position": 4,
+      "source": "wird für den Zeitraum vom ___ bis ___",
+      "target": "на период с ___ по ___",
+      "targetSpans": "<span class=\"te_txt\">на период с ___ по ___</span>",
+      "match": {
+        "type": "MT",
+        "score": 0.84
+      },
+      "confirmedInPreviousStep": true
+    },
+    {
+      "position": 5,
+      "source": "folgender Vertrag geschlossen.",
+      "target": "заключается следующий договор.",
+      "targetSpans": "<span class=\"te_txt\">заключается следующий договор.</span>",
+      "match": {
+        "type": "MT",
+        "score": 0.84
+      },
+      "confirmedInPreviousStep": true
+    },
+    {
+      "position": 6,
+      "source": "Allgemeines",
+      "target": "Общие положения",
+      "targetSpans": "<span class=\"te_txt\">Общие положения</span>",
+      "match": {
+        "type": "MT",
+        "score": 0.78
+      },
+      "confirmedInPreviousStep": true
+    },
+    {
+      "position": 7,
+      "source": "Im Rahmen des Praktikums soll der/die Praktikant/in die Regeln und Gesetzmäßigkeiten eines betrieblichen Ablaufes kennen lernen und seine/ihre eigenen beruflichen Fertigkeiten erproben.",
+      "target": "В рамках стажировки стажер/стажерка должен/должна ознакомиться с правилами и закономерностями производственного процесса и опробовать свои собственные профессиональные навыки.",
+      "targetSpans": "<span class=\"te_txt\">В рамках стажировки стажер/стажерка должен/должна ознакомиться с правилами и закономерностями производственного процесса и опробовать свои собственные профессиональные навыки.</span>",
+      "match": {
+        "type": "MT",
+        "score": 0.79
+      },
+      "confirmedInPreviousStep": true
+    },
+    {
+      "position": 8,
+      "source": "Pflichten der Vertragspartner",
+      "target": "Обязанности сторон договора",
+      "targetSpans": "<span class=\"te_txt\">Обязанности сторон договора</span>",
+      "match": {
+        "type": "MT",
+        "score": 0.96
+      },
+      "confirmedInPreviousStep": true
+    },
+    {
+      "position": 9,
+      "source": "Der Praktikumsbetrieb verpflichtet sich,",
+      "target": "Предприятие, предоставляющее стажировку, обязуется:",
+      "targetSpans": "<span class=\"te_txt\">Предприятие, предоставляющее стажировку, обязуется:</span>",
+      "match": {
+        "type": "MT",
+        "score": 0.57
+      },
+      "confirmedInPreviousStep": true
+    },
+    {
+      "position": 10,
+      "source": "den/die Praktikant/in so zu beschäftigen, dass er/sie erfahren kann, ob eine Ausbildung in diesem Berufsfeld sinnvoll erscheint.",
+      "target": "обеспечить стажеру/стажерке такую занятость, чтобы он/она мог(ла) понять, целесообразно ли проходить обучение в данной профессиональной сфере.",
+      "targetSpans": "<span class=\"te_txt\">обеспечить стажеру/стажерке такую занятость, чтобы он/она мог(ла) понять, целесообразно ли проходить обучение в данной профессиональной сфере.</span>",
+      "match": {
+        "type": "MT",
+        "score": 0.69
+      },
+      "confirmedInPreviousStep": true
+    },
+    {
+      "position": 11,
+      "source": "Für den Betrieb entsteht keine Verpflichtung zu einer späteren Übernahme;",
+      "target": "У предприятия не возникает обязательств по последующему трудоустройству;",
+      "targetSpans": "<span class=\"te_txt\">У предприятия не возникает обязательств по последующему трудоустройству;</span>",
+      "match": {
+        "type": "MT",
+        "score": 0.91
+      },
+      "confirmedInPreviousStep": true
+    },
+    {
+      "position": 12,
+      "source": "umgehend die Erziehungsberechtigten zu verständigen, wenn der/die Praktikant/in nicht erscheint;",
+      "target": "незамедлительно уведомлять законных представителей, если стажер/стажерка не явился/явилась;",
+      "targetSpans": "<span class=\"te_txt\">незамедлительно уведомлять законных представителей, если стажер/стажерка не явился/явилась;</span>",
+      "match": {
+        "type": "MT",
+        "score": 0.69
+      },
+      "confirmedInPreviousStep": true
+    },
+    {
+      "position": 13,
+      "source": "die Jugendarbeitsschutzbestimmungen einzuhalten.",
+      "target": "соблюдать положения по охране труда несовершеннолетних.",
+      "targetSpans": "<span class=\"te_txt\">соблюдать положения по охране труда несовершеннолетних.</span>",
+      "match": {
+        "type": "MT",
+        "score": 0.72
+      },
+      "confirmedInPreviousStep": true
+    },
+    {
+      "position": 14,
+      "source": "Der/die Praktikant/in verpflichtet sich, sich dem Ziel dieser Orientierungsmaßnahme entsprechend zu verhalten.",
+      "target": "Стажер/стажерка обязуется вести себя в соответствии с целью данного профориентационного мероприятия.",
+      "targetSpans": "<span class=\"te_txt\">Стажер/стажерка обязуется вести себя в соответствии с целью данного профориентационного мероприятия.</span>",
+      "match": {
+        "type": "MT",
+        "score": 0.8
+      },
+      "confirmedInPreviousStep": true
+    },
+    {
+      "position": 15,
+      "source": "Insbesondere:",
+      "target": "В частности:",
+      "targetSpans": "<span class=\"te_txt\">В частности:</span>",
+      "match": {
+        "type": "MT",
+        "score": 0.98
+      },
+      "confirmedInPreviousStep": true
+    },
+    {
+      "position": 16,
+      "source": "sich zu bemühen, die angebotenen Kenntnisse und Fertigkeiten zu erwerben;",
+      "target": "стремиться к приобретению предлагаемых знаний и навыков;",
+      "targetSpans": "<span class=\"te_txt\">стремиться к приобретению предлагаемых знаний и навыков;</span>",
+      "match": {
+        "type": "MT",
+        "score": 0.84
+      },
+      "confirmedInPreviousStep": true
+    },
+    {
+      "position": 17,
+      "source": "die übertragenen Aufgaben gewissenhaft auszuführen und die gegebenen Weisungen zu befolgen;",
+      "target": "добросовестно выполнять порученные задания и следовать полученным указаниям;",
+      "targetSpans": "<span class=\"te_txt\">добросовестно выполнять порученные задания и следовать полученным указаниям;</span>",
+      "match": {
+        "type": "MT",
+        "score": 0.85
+      },
+      "confirmedInPreviousStep": true
+    },
+    {
+      "position": 18,
+      "source": "die Betriebsordnung und die Unfallverhütungsvorschriften einzuhalten sowie betriebliche Gegenstände sorgfältig zu bewahren und pfleglich zu behandeln;",
+      "target": "соблюдать правила внутреннего распорядка предприятия и правила техники безопасности, а также бережно хранить и аккуратно обращаться с имуществом предприятия;",
+      "targetSpans": "<span class=\"te_txt\">соблюдать правила внутреннего распорядка предприятия и правила техники безопасности, а также бережно хранить и аккуратно обращаться с имуществом предприятия;</span>",
+      "match": {
+        "type": "MT",
+        "score": 0.8
+      },
+      "confirmedInPreviousStep": true
+    },
+    {
+      "position": 19,
+      "source": "bei Fernbleiben vom Praktikum den Praktikumsbetrieb unverzüglich zu unterrichten und spätestens am dritten Werktag eine Arbeitsunfähigkeitsbescheinigung (ärztliches Attest) oder eine sonstige amtliche Bescheinigung einzureichen;",
+      "target": "в случае отсутствия на стажировке незамедлительно уведомлять предприятие и не позднее третьего рабочего дня предоставить справку о временной нетрудоспособности (медицинское заключение) или иной официальный документ;",
+      "targetSpans": "<span class=\"te_txt\">в случае отсутствия на стажировке незамедлительно уведомлять предприятие и не позднее третьего рабочего дня предоставить справку о временной нетрудоспособности (медицинское заключение) или иной официальный документ;</span>",
+      "match": {
+        "type": "MT",
+        "score": 0.84
+      },
+      "confirmedInPreviousStep": true
+    },
+    {
+      "position": 20,
+      "source": "gegenüber Dritten über alle ihm/ihr bekannt gewordenen betrieblichen Vorgänge innerhalb und außerhalb des Betriebes Stillschweigen zu bewahren.",
+      "target": "соблюдать конфиденциальность в отношении третьих лиц обо всех ставших ему/ей известными производственных процессах внутри и вне предприятия.",
+      "targetSpans": "<span class=\"te_txt\">соблюдать конфиденциальность в отношении третьих лиц обо всех ставших ему/ей известными производственных процессах внутри и вне предприятия.</span>",
+      "match": {
+        "type": "MT",
+        "score": 0.87
+      },
+      "confirmedInPreviousStep": true
+    },
+    {
+      "position": 21,
+      "source": "Arbeitszeit",
+      "target": "Рабочее время",
+      "targetSpans": "<span class=\"te_txt\">Рабочее время</span>",
+      "match": {
+        "type": "MT",
+        "score": 1
+      },
+      "confirmedInPreviousStep": true
+    },
+    {
+      "position": 22,
+      "source": "Die tägliche Beschäftigungszeit beträgt ___ Stunden und geht von ___ Uhr bis ___ Uhr.",
+      "target": "Ежедневное рабочее время составляет ___ часов и длится с ___ до ___ часов.",
+      "targetSpans": "<span class=\"te_txt\">Ежедневное рабочее время составляет ___ часов и длится с ___ до ___ часов.</span>",
+      "match": {
+        "type": "MT",
+        "score": 0.93
+      },
+      "confirmedInPreviousStep": true
+    },
+    {
+      "position": 23,
+      "source": "Die Pausen sind um ___ und um ___ Uhr.",
+      "target": "Перерывы предоставляются в ___ и в ___ часов.",
+      "targetSpans": "<span class=\"te_txt\">Перерывы предоставляются в ___ и в ___ часов.</span>",
+      "match": {
+        "type": "MT",
+        "score": 0.8
+      },
+      "confirmedInPreviousStep": true
+    },
+    {
+      "position": 24,
+      "source": "Vergütungsanspruch",
+      "target": "Право на вознаграждение",
+      "targetSpans": "<span class=\"te_txt\">Право на вознаграждение</span>",
+      "match": {
+        "type": "MT",
+        "score": 0.98
+      },
+      "confirmedInPreviousStep": true
+    },
+    {
+      "position": 25,
+      "source": "Der/die Praktikant/in hat keinen Rechtsanspruch auf eine Vergütung durch den Praktikumsbetrieb.",
+      "target": "Стажер не имеет законного права на получение вознаграждения от организации, предоставляющей стажировку.",
+      "targetSpans": "<span class=\"te_txt\">Стажер не имеет законного права на получение вознаграждения от организации, предоставляющей стажировку.</span>",
+      "match": {
+        "type": "MT",
+        "score": 0.7
+      },
+      "confirmedInPreviousStep": true
+    },
+    {
+      "position": 26,
+      "source": "Während der Praktikumsdauer besteht kein Urlaubsanspruch.",
+      "target": "В период прохождения стажировки право на отпуск не предоставляется.",
+      "targetSpans": "<span class=\"te_txt\">В период прохождения стажировки право на отпуск не предоставляется.</span>",
+      "match": {
+        "type": "MT",
+        "score": 0.84
+      },
+      "confirmedInPreviousStep": true
+    },
+    {
+      "position": 27,
+      "source": "Versicherungsschutz",
+      "target": "Страховое покрытие",
+      "targetSpans": "<span class=\"te_txt\">Страховое покрытие</span>",
+      "match": {
+        "type": "MT",
+        "score": 0.57
+      },
+      "confirmedInPreviousStep": true
+    },
+    {
+      "position": 28,
+      "source": "Es besteht ein gesetzlicher Haftpflicht- und Unfallversicherungsschutz durch den Praktikumsbetrieb.",
+      "target": "Организация, предоставляющая стажировку, обеспечивает обязательное страхование гражданской ответственности и страхование от несчастных случаев.",
+      "targetSpans": "<span class=\"te_txt\">Организация, предоставляющая стажировку, обеспечивает обязательное страхование гражданской ответственности и страхование от несчастных случаев.</span>",
+      "match": {
+        "type": "MT",
+        "score": 0.75
+      },
+      "confirmedInPreviousStep": true
+    },
+    {
+      "position": 29,
+      "source": "Der Krankenversicherungsschutz ist privat geregelt.",
+      "target": "Медицинское страхование регулируется в частном порядке.",
+      "targetSpans": "<span class=\"te_txt\">Медицинское страхование регулируется в частном порядке.</span>",
+      "match": {
+        "type": "MT",
+        "score": 0.94
+      },
+      "confirmedInPreviousStep": true
+    },
+    {
+      "position": 30,
+      "source": "Vertragsausfertigung",
+      "target": "Оформление договора",
+      "targetSpans": "<span class=\"te_txt\">Оформление договора</span>",
+      "match": {
+        "type": "MT",
+        "score": 0.9
+      },
+      "confirmedInPreviousStep": true
+    },
+    {
+      "position": 31,
+      "source": "Dieser Vertrag wird in zwei gleichlautenden Ausfertigungen unterzeichnet.",
+      "target": "Настоящий договор подписывается в двух идентичных экземплярах.",
+      "targetSpans": "<span class=\"te_txt\">Настоящий договор подписывается в двух идентичных экземплярах.</span>",
+      "match": {
+        "type": "MT",
+        "score": 0.83
+      },
+      "confirmedInPreviousStep": true
+    },
+    {
+      "position": 32,
+      "source": "Jeder Vertragspartner erhält eine Ausfertigung.",
+      "target": "Каждая из сторон договора получает по одному экземпляру.",
+      "targetSpans": "<span class=\"te_txt\">Каждая из сторон договора получает по одному экземпляру.</span>",
+      "match": {
+        "type": "MT",
+        "score": 0.84
+      },
+      "confirmedInPreviousStep": true
+    },
+    {
+      "position": 33,
+      "source": "Kündigung des Vertrages",
+      "target": "Расторжение договора",
+      "targetSpans": "<span class=\"te_txt\">Расторжение договора</span>",
+      "match": null,
+      "confirmedInPreviousStep": true,
+      "textSource": "Vertrag.pdf / превью документа"
+    },
+    {
+      "position": 34,
+      "source": "Dieser Vertrag kann von jeder Vertragspartei ohne Begründung und Fristen jederzeit gekündigt werden.",
+      "target": "Настоящий договор может быть расторгнут любой из сторон в любое время без объяснения причин и соблюдения сроков уведомления.",
+      "targetSpans": "<span class=\"te_txt\">Настоящий договор может быть расторгнут любой из сторон в любое время без объяснения причин и соблюдения сроков уведомления.</span>",
+      "match": null,
+      "confirmedInPreviousStep": true,
+      "textSource": "Vertrag.pdf / превью документа"
+    },
+    {
+      "position": 35,
+      "source": "Ansprechpartnerin/Ansprechpartner im Praktikumsbetrieb",
+      "target": "Контактное лицо в организации, предоставляющей стажировку",
+      "targetSpans": "<span class=\"te_txt\">Контактное лицо в организации, предоставляющей стажировку</span>",
+      "match": null,
+      "confirmedInPreviousStep": true,
+      "textSource": "Vertrag.pdf / превью документа"
+    },
+    {
+      "position": 36,
+      "source": "Verantwortlich für die Unterweisung des/der Praktikant/in im Praktikumsbetrieb ist:",
+      "target": "Ответственным за инструктаж стажера в организации, предоставляющей стажировку, является:",
+      "targetSpans": "<span class=\"te_txt\">Ответственным за инструктаж стажера в организации, предоставляющей стажировку, является:</span>",
+      "match": null,
+      "confirmedInPreviousStep": true,
+      "textSource": "Vertrag.pdf / превью документа"
+    },
+    {
+      "position": 37,
+      "source": "Frau/Herr",
+      "target": "Г-жа/Г-н",
+      "targetSpans": "<span class=\"te_txt\">Г-жа/Г-н</span>",
+      "match": null,
+      "confirmedInPreviousStep": true,
+      "textSource": "Vertrag.pdf / превью документа"
+    },
+    {
+      "position": 38,
+      "source": "Sie/er ist fachlich und persönlich für die Anleitung geeignet.",
+      "target": "Она/он обладает необходимой профессиональной и личной квалификацией для руководства стажировкой.",
+      "targetSpans": "<span class=\"te_txt\">Она/он обладает необходимой профессиональной и личной квалификацией для руководства стажировкой.</span>",
+      "match": null,
+      "confirmedInPreviousStep": true,
+      "textSource": "Vertrag.pdf / превью документа"
+    },
+    {
+      "position": 39,
+      "source": "Sonstige Vereinbarungen",
+      "target": "Прочие договоренности",
+      "targetSpans": "<span class=\"te_txt\">Прочие договоренности</span>",
+      "match": null,
+      "confirmedInPreviousStep": true,
+      "textSource": "Vertrag.pdf / превью документа"
+    },
+    {
+      "position": 40,
+      "source": "Der Praktikumsbetrieb stellt dem/der Praktikant/in eine Praktikumsbescheinigung aus.",
+      "target": "Организация, предоставляющая стажировку, выдает стажеру справку о прохождении стажировки.",
+      "targetSpans": "<span class=\"te_txt\">Организация, предоставляющая стажировку, выдает стажеру справку о прохождении стажировки.</span>",
+      "match": null,
+      "confirmedInPreviousStep": true,
+      "textSource": "Vertrag.pdf / превью документа"
+    },
+    {
+      "position": 41,
+      "source": "Ort, Datum",
+      "target": "Место, дата",
+      "targetSpans": "<span class=\"te_txt\">Место, дата</span>",
+      "match": null,
+      "confirmedInPreviousStep": true,
+      "textSource": "Vertrag.pdf / превью документа"
+    },
+    {
+      "position": 42,
+      "source": "Firmenstempel und Unterschrift des Betriebes",
+      "target": "Печать и подпись предприятия",
+      "targetSpans": "<span class=\"te_txt\">Печать и подпись предприятия</span>",
+      "match": null,
+      "confirmedInPreviousStep": true,
+      "textSource": "Vertrag.pdf / превью документа"
+    },
+    {
+      "position": 43,
+      "source": "Unterschrift Praktikant/in",
+      "target": "Подпись практиканта/практикантки",
+      "targetSpans": "<span class=\"te_txt\">Подпись практиканта/практикантки</span>",
+      "match": null,
+      "confirmedInPreviousStep": true,
+      "textSource": "Vertrag.pdf / превью документа"
+    },
+    {
+      "position": 44,
+      "source": "Unterschrift Erziehungsberechtigte/r",
+      "target": "Подпись законного представителя",
+      "targetSpans": "<span class=\"te_txt\">Подпись законного представителя</span>",
+      "match": null,
+      "confirmedInPreviousStep": true,
+      "textSource": "Vertrag.pdf / превью документа"
+    },
+    {
+      "position": 45,
+      "source": "Dieser Praktikumsvertrag ist nur für Praktika von bis zu drei Monaten zur Berufsorientierung auf eine Ausbildung oder ein Studium vorgesehen.",
+      "target": "Данный договор о прохождении практики предназначен только для стажировок продолжительностью до трех месяцев с целью профессиональной ориентации для получения профессионального образования или обучения в вузе.",
+      "targetSpans": "<span class=\"te_txt\">Данный договор о прохождении практики предназначен только для стажировок продолжительностью до трех месяцев с целью профессиональной ориентации для получения профессионального образования или обучения в вузе.</span>",
+      "match": null,
+      "confirmedInPreviousStep": true,
+      "textSource": "Vertrag.pdf / превью документа"
+    },
+    {
+      "position": 46,
+      "source": "Für andere Praktikumsarten bzw. abweichende Zeiträume gelten ggf. andere Vertragsbedingungen.",
+      "target": "Для других видов практики или иных сроков могут применяться другие условия договора.",
+      "targetSpans": "<span class=\"te_txt\">Для других видов практики или иных сроков могут применяться другие условия договора.</span>",
+      "match": null,
+      "confirmedInPreviousStep": true,
+      "textSource": "Vertrag.pdf / превью документа"
+    }
+  ]
+}

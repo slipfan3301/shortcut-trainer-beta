@@ -1,0 +1,208 @@
+{
+  "about": "Тестовые ресурсы для панели CAT и поиска по TM/TB. glossary — термины (TB): если исходный термин встречается в оригинале сегмента, он показывается в панели CAT. tm — память переводов из похожего договора: показывается, если совпадение с оригиналом сегмента не ниже minScore. Файл можно править: добавлять и менять строки.",
+  "minScore": 0.6,
+  "glossary": [
+    {
+      "source": "Praktikum",
+      "target": "стажировка"
+    },
+    {
+      "source": "Praktikant/in",
+      "target": "стажер/стажерка"
+    },
+    {
+      "source": "Praktikumsbetrieb",
+      "target": "предприятие, предоставляющее стажировку"
+    },
+    {
+      "source": "Berufsorientierung",
+      "target": "профессиональная ориентация"
+    },
+    {
+      "source": "Vertrag",
+      "target": "договор"
+    },
+    {
+      "source": "Vertragspartner",
+      "target": "сторона договора"
+    },
+    {
+      "source": "Vertragspartei",
+      "target": "сторона договора"
+    },
+    {
+      "source": "Erziehungsberechtigte",
+      "target": "законный представитель"
+    },
+    {
+      "source": "Arbeitsunfähigkeitsbescheinigung",
+      "target": "справка о временной нетрудоспособности"
+    },
+    {
+      "source": "Ausfertigung",
+      "target": "экземпляр"
+    },
+    {
+      "source": "Kündigung",
+      "target": "расторжение"
+    },
+    {
+      "source": "Haftpflicht",
+      "target": "гражданская ответственность"
+    },
+    {
+      "source": "Unfallversicherungsschutz",
+      "target": "страхование от несчастных случаев"
+    },
+    {
+      "source": "Krankenversicherungsschutz",
+      "target": "медицинское страхование"
+    },
+    {
+      "source": "Vergütung",
+      "target": "вознаграждение"
+    },
+    {
+      "source": "Urlaubsanspruch",
+      "target": "право на отпуск"
+    },
+    {
+      "source": "Betriebsordnung",
+      "target": "правила внутреннего распорядка"
+    },
+    {
+      "source": "Unfallverhütungsvorschriften",
+      "target": "правила техники безопасности"
+    },
+    {
+      "source": "Jugendarbeitsschutzbestimmungen",
+      "target": "положения по охране труда несовершеннолетних"
+    },
+    {
+      "source": "Praktikumsbescheinigung",
+      "target": "справка о прохождении стажировки"
+    },
+    {
+      "source": "Ansprechpartnerin/Ansprechpartner",
+      "target": "контактное лицо"
+    },
+    {
+      "source": "Arbeitszeit",
+      "target": "рабочее время"
+    },
+    {
+      "source": "Weisungen",
+      "target": "указания"
+    },
+    {
+      "source": "Firmenstempel",
+      "target": "печать предприятия"
+    },
+    {
+      "source": "Versicherungsschutz",
+      "target": "страховое покрытие"
+    },
+    {
+      "source": "Vereinbarung",
+      "target": "соглашение"
+    }
+  ],
+  "tm": [
+    {
+      "source": "Vertrag über ein Praktikum",
+      "target": "Договор о прохождении стажировки"
+    },
+    {
+      "source": "Vertrag über ein Orientierungspraktikum",
+      "target": "Договор об ознакомительной практике"
+    },
+    {
+      "source": "Vertrag über ein Praktikum zur beruflichen Orientierung",
+      "target": "Договор о прохождении стажировки в целях профессиональной ориентации"
+    },
+    {
+      "source": "Vertrag über ein freiwilliges Praktikum zur Berufsorientierung",
+      "target": "Договор о добровольной стажировке для профессиональной ориентации"
+    },
+    {
+      "source": "Vertrag über ein Schülerpraktikum zur Berufsorientierung",
+      "target": "Договор о прохождении школьной практики для профессиональной ориентации"
+    },
+    {
+      "source": "Zwischen Frau/Herrn",
+      "target": "Между г-жой/г-ном"
+    },
+    {
+      "source": "sowie dem Ausbildungsbetrieb",
+      "target": "а также предприятием, осуществляющим обучение,"
+    },
+    {
+      "source": "wird für den Zeitraum vom ___ bis ___",
+      "target": "на период с ___ по ___"
+    },
+    {
+      "source": "folgender Vertrag geschlossen.",
+      "target": "заключается следующий договор."
+    },
+    {
+      "source": "Pflichten der Vertragspartner",
+      "target": "Обязанности сторон договора"
+    },
+    {
+      "source": "Der Ausbildungsbetrieb verpflichtet sich,",
+      "target": "Предприятие, осуществляющее обучение, обязуется:"
+    },
+    {
+      "source": "die Jugendarbeitsschutzbestimmungen einzuhalten.",
+      "target": "соблюдать положения по охране труда несовершеннолетних."
+    },
+    {
+      "source": "Arbeitszeit",
+      "target": "Рабочее время"
+    },
+    {
+      "source": "Die tägliche Arbeitszeit beträgt ___ Stunden.",
+      "target": "Ежедневное рабочее время составляет ___ часов."
+    },
+    {
+      "source": "Die Pausen sind um ___ Uhr.",
+      "target": "Перерыв предоставляется в ___ часов."
+    },
+    {
+      "source": "Versicherungsschutz",
+      "target": "Страховое покрытие"
+    },
+    {
+      "source": "Der Krankenversicherungsschutz ist gesetzlich geregelt.",
+      "target": "Медицинское страхование регулируется законом."
+    },
+    {
+      "source": "Dieser Vertrag wird in drei gleichlautenden Ausfertigungen unterzeichnet.",
+      "target": "Настоящий договор подписывается в трех идентичных экземплярах."
+    },
+    {
+      "source": "Jeder Vertragspartner erhält eine Ausfertigung.",
+      "target": "Каждая из сторон договора получает по одному экземпляру."
+    },
+    {
+      "source": "Kündigung des Vertrages",
+      "target": "Расторжение договора"
+    },
+    {
+      "source": "Sonstige Vereinbarungen",
+      "target": "Прочие договоренности"
+    },
+    {
+      "source": "Ort, Datum",
+      "target": "Место, дата"
+    },
+    {
+      "source": "Unterschrift des Betriebes",
+      "target": "Подпись предприятия"
+    },
+    {
+      "source": "Unterschrift Erziehungsberechtigte/r",
+      "target": "Подпись законного представителя"
+    }
+  ]
+}
